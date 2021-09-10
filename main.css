@@ -1,0 +1,26 @@
+body{
+    background: lightgray;
+}
+
+h1{
+    text-align: center;
+    font-size: 18px;
+    color: blue;
+}
+
+#p-tag{
+    font-size: 14px;
+    color: red;
+}
+
+.div-cell{
+    border: 3px dotted pink;
+    margin: 50px 50px 50px 50px;
+    padding: 20px 20px 20px 20px;
+}
+
+.div-width{
+    background-color: lightskyblue;
+    height: 250px;
+    width: 80%;
+}
